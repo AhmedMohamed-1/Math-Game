@@ -10,7 +10,7 @@ Play Again question validation if you enter anything not 1 or 2 will not accepte
 # 4 
 Record Screen shows you the number of questions that were answered correctly and the number of questions that were answered incorrectly. It also shows the number of the whole questions.
 with a green screen if you won and red screen if you lose and yellow screen if it's draw
-# SOME PROBLEMS THAT I CAN'T SOLVE
+# SOME PROBLEMS THAT I WASN'T ABLE TO SOLVE
 # 1
 In choosing the levels, entering a very large number causes a problem because when converting text to a number **stoi()**, the variable cannot contain this big number and causes a problem in the program
 # 2
