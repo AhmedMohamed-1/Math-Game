@@ -4,7 +4,7 @@ Math Game With C++
 # 1 
 Choosing Levels with validating the user input 
 # 2 
-answering question validation anything not a digit you enter will be ignored and if your answer is correct the text will be in green and if it's false the text will be in red **your answer can contain only dot (2.5)**
+answering question validation anything not a digit you enter will be ignored and if your answer is correct the text will be in green and if it's false the text will be in red **your answer can contain only one number the answer of division questions is rounded**
 # 3
 Play Again question validation if you enter anything not 1 or 2 will not accepted but if it's too long it will crash, yes repeat the whole cycle except for the welcoming text as it appears only one time when you open the game, and if no record screen will appear and exits
 # 4 
